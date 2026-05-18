@@ -1,0 +1,49 @@
+# ====================================================================
+# Mind-Matrix-CAD .gitignore
+# ====================================================================
+
+# --- Fordítási és Build könyvtárak ---
+# A CMake ide rakja a generált Makefile-okat, cache fájlokat és a Ninja buildet
+/[Bb]uild/
+/[Dd]ist/
+
+# --- IDE és Szerkesztő specifikus fájlok ---
+# VS Code, CLion, Visual Studio vagy Xcode helyi beállításai
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.vcxproj
+*.user
+.clangd/
+.cache/
+
+# --- Fordítási melléktermékek (Minden mappában) ---
+*.o
+*.obj
+*.a
+*.lib
+
+# --- Végrehajtható binárisok és Könyvtárak (Kivételekkel) ---
+# A lefordított főprogram és a dinamikus könyvtárak ne kerüljenek a repóba
+*.exe
+*.out
+*.app
+
+# --- Scripting / Plugin Alrendszer ---
+# A felhasználók által írt scriptek FORRÁSKÓDJA (.c) mehet a gitbe, 
+# de a CAD által futásidőben legenerált binárisok (.so / .dll) NEM!
+scripts/*.so
+scripts/*.dll
+scripts/*.dylib
+scripts/*.pdb
+
+# --- Operációs Rendszer szemetek ---
+.DS_Store
+Thumbs.db
+
+# --- Logok és Hibakeresés ---
+*.log
+compile_commands.json
