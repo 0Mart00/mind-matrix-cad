@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/mart/mind-matrix-cad/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

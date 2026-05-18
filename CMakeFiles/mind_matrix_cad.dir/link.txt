@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/mind_matrix_cad.dir/link.d CMakeFiles/mind_matrix_cad.dir/apps/main_app/main.c.o -o mind_matrix_cad  libmmc_core.a libmmc_render.a libmmc_geometry.a libmmc_math.a /usr/lib/libOpenGL.so -lglfw -lm -ldl

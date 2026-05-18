@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmmc_math.a CMakeFiles/mmc_math.dir/src/math/vector_nd.c.o CMakeFiles/mmc_math.dir/src/math/matrix_nd.c.o CMakeFiles/mmc_math.dir/src/math/projection.c.o
+/usr/bin/ranlib libmmc_math.a

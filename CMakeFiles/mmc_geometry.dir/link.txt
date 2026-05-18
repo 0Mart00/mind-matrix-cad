@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmmc_geometry.a CMakeFiles/mmc_geometry.dir/src/geometry/geometry_base.c.o CMakeFiles/mmc_geometry.dir/src/geometry/mesh_nd.c.o CMakeFiles/mmc_geometry.dir/src/geometry/parametric.c.o CMakeFiles/mmc_geometry.dir/src/geometry/sdf.c.o
+/usr/bin/ranlib libmmc_geometry.a

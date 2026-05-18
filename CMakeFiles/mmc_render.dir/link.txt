@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmmc_render.a CMakeFiles/mmc_render.dir/src/render/renderer.c.o CMakeFiles/mmc_render.dir/src/render/shader.c.o CMakeFiles/mmc_render.dir/src/render/camera.c.o CMakeFiles/mmc_render.dir/third_party/src/gl.c.o
+/usr/bin/ranlib libmmc_render.a

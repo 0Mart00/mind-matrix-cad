@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmmc_core.a CMakeFiles/mmc_core.dir/src/core/app.c.o CMakeFiles/mmc_core.dir/src/core/engine.c.o CMakeFiles/mmc_core.dir/src/ui/gui_manager.c.o CMakeFiles/mmc_core.dir/src/ui/panel_properties.c.o CMakeFiles/mmc_core.dir/src/ui/panel_console.c.o CMakeFiles/mmc_core.dir/src/scripting/compiler_bridge.c.o CMakeFiles/mmc_core.dir/src/scripting/plugin_manager.c.o CMakeFiles/mmc_core.dir/src/scripting/formula_parser.c.o
+/usr/bin/ranlib libmmc_core.a

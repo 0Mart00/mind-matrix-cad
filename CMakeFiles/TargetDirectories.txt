@@ -1,0 +1,7 @@
+/home/mart/mind-matrix-cad/CMakeFiles/mmc_math.dir
+/home/mart/mind-matrix-cad/CMakeFiles/mmc_geometry.dir
+/home/mart/mind-matrix-cad/CMakeFiles/mmc_render.dir
+/home/mart/mind-matrix-cad/CMakeFiles/mmc_core.dir
+/home/mart/mind-matrix-cad/CMakeFiles/mind_matrix_cad.dir
+/home/mart/mind-matrix-cad/CMakeFiles/edit_cache.dir
+/home/mart/mind-matrix-cad/CMakeFiles/rebuild_cache.dir
