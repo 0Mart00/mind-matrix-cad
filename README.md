@@ -1,5 +1,5 @@
 ```markdown
-# N-Dimensional Animation & Scriptable CAD (N-CAD)
+# Mind-Matrix-CAD (MMC)
 
 A highly modular, scalable, and lightweight CAD application written in pure C (C99). It is designed for creating, transforming, animating, and real-time projecting of arbitrary $N$-dimensional geometries. The software features a dynamic runtime C-scripting subsystem (via `.so` / `.dll` hot-reloading) and a mathematical formula evaluation pipeline.
 
@@ -116,7 +116,7 @@ sudo apt-get install build-essential cmake libglfw3-dev libglew-dev
 
 ### Building the Project
 
-N-CAD utilizes CMake for cross-platform out-of-source builds:
+Mind-Matrix-CAD (MMC) utilizes CMake for cross-platform out-of-source builds:
 
 ```bash
 mkdir build
@@ -191,7 +191,7 @@ Geometry* InitCustomGeometry() {
 
 ### Loading your Plugin
 
-1. Open N-CAD and navigate to the **Properties Panel** on the side.
+1. Open Mind-Matrix-CAD (MMC) and navigate to the **Properties Panel** on the side.
 2. Click **"Load Script Source"** and choose your `.c` file.
 3. The internal `compiler_bridge` compiles the target to a shared library binary `.so`/`.dll` silently in a worker thread, signals the engine to cleanly free the previous layout, and live-loads the new entity into the active simulation context.
 
