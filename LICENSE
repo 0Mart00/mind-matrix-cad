@@ -1,0 +1,48 @@
+Mind-Matrix-CAD License Agreement
+
+Copyright (c) 2026 0Mart00
+
+By using, copying, or distributing this software ("Mind-Matrix-CAD"), you agree to be 
+bound by the terms and conditions of this License Agreement.
+
+1. PERMITTED USE AND COST
+This software is provided completely free of charge for personal, educational, 
+and non-commercial research purposes. You are allowed to download, install, 
+and run the software on any number of devices.
+
+2. COMMERCIAL RESTRICTIONS
+You may NOT sell, rent, lease, sublicense, or otherwise commercialize this 
+software, its source code, or any compiled binaries derived from it. The 
+software must remain free for everyone.
+
+3. MODIFICATION RESTRICTIONS
+You may NOT modify, alter, or adapt the core source code of this software with 
+the intent to redistribute it, especially under a commercial model or as a 
+separate standalone product. 
+
+4. PLUGIN DEVELOPMENT AND EXTENSIONS
+You are explicitly permitted and encouraged to develop external extensions, 
+scripts, and plugins (collectively "Plugins") that interface with Mind-Matrix-CAD via 
+the official SDK (e.g., "ncad_sdk.h"). 
+
+However, any such Plugins created for this software MUST meet the following 
+conditions:
+a) They must be hosted and published on a publicly accessible GitHub repository.
+b) They must be distributed free of charge, under an open-source compatible 
+   license (e.g., MIT, Apache 2.0, or GPL).
+c) Charging money for Plugins or placing them behind a paywall is strictly 
+   prohibited.
+
+5. TERMINATION
+Any violation of this agreement automatically terminates your rights under 
+this license and requires you to destroy all copies of the software in your 
+possession.
+
+6. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
